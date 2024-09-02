@@ -83,6 +83,7 @@
   background-color: rgb(255, 192, 44);
 }
 .email {
+  color: black;
   display: block;
   margin-left: 59px;
   width: 400px;
@@ -112,6 +113,7 @@
   margin-left: 39px;
 }
 .password {
+  color: black;
   display: block;
   margin-left: 59px;
   width: 400px;
@@ -158,6 +160,7 @@
   opacity: 0.67;
 }
 .button {
+  color: black;
   background-color: rgb(255, 192, 44);
   font-size: 60px;
   border-style: solid;
